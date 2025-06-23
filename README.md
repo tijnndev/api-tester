@@ -22,22 +22,22 @@ A simple Flask web application that allows you to send HTTP requests (GET, POST,
 
 1. Clone the repository:
 
-   ```bash
+```bash
    git clone https://github.com/tijnndev/api-tester.git
    cd flask-api-tester
 ````
 
 2. Install dependencies:
 
-   ```bash
+```bash
    pip install -r requirements.txt
-   ```
+```
 
 3. Run the server:
 
-   ```bash
+```bash
    python app.py
-   ```
+```
 
 4. Open your browser and go to `http://127.0.0.1:5000`
 
